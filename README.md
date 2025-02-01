@@ -6,13 +6,9 @@ Check to see if ITM/Matlab is setup correctly.
 
 Run: https://github.com/nicklasorte/itm_matlab_example
 
-Two Step Process:
 
-First Step:
-
-
-Second Step:
-
+For the sims:
+Run: https://github.com/nicklasorte/CBRS_Agg_Check/blob/main/init_folder_and_run_CBRS_DPA_reliability_rev1.m
 
 You'll need to also download:
 
